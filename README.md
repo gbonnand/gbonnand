@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gbonnand
 - 👀 I’m interested in Hiking, Photography, Familly, Friends and so much other things 
 - 🌱 I’m currently learning go
-- 📫 How to reach me : @bonnand on twitter
 
 <!---
 gbonnand/gbonnand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
